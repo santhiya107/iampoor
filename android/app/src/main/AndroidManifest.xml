@@ -1,9 +1,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.venzo.aasignment">
    <application
         android:label="aasignment"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+=======
+    package="com.venzo.demo">
+   <application
+        android:label="demo"
+        android:name="${applicationName}"
+        android:icon="@mipmap/diamond">
+>>>>>>> f3f78014ee2d9f10c4349c4000c80b62cfd7964b
         <activity
             android:name=".MainActivity"
             android:exported="true"

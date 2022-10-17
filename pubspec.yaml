@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: aasignment
+=======
+name: demo
+>>>>>>> f3f78014ee2d9f10c4349c4000c80b62cfd7964b
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -58,10 +62,18 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+<<<<<<< HEAD
 
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
+=======
+  assets:
+    - images/
+
+
+
+>>>>>>> f3f78014ee2d9f10c4349c4000c80b62cfd7964b
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -44,7 +44,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId "com.venzo.aasignment"
+=======
+        applicationId "com.venzo.demo"
+>>>>>>> f3f78014ee2d9f10c4349c4000c80b62cfd7964b
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-build-configuration.
         minSdkVersion flutter.minSdkVersion

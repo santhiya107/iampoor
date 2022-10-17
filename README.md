@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # aasignment
+=======
+# demo
+>>>>>>> f3f78014ee2d9f10c4349c4000c80b62cfd7964b
 
 A new Flutter project.
 
